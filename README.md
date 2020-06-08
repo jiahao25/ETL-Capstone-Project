@@ -23,4 +23,4 @@ After the user selects the desired character, a few phrase suggestions will be d
 
 My role in the team is to deal with **data collection, cleaning and transforming** the relevant data to a form that allows the keyboard program to display character and phrase predictions **fast and accurately**. The diagram below, I will demonstrate the process I took for the prototype to achieve this.
 
-![](https://raw.githubusercontent.com/jiahao25/ETL-Capstone-Project/master/pictures/methodology.JPG)
+![](https://github.com/jiahao25/ETL-Capstone-Project/blob/master/pictures/diagram.JPG?raw=true)
