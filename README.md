@@ -13,5 +13,6 @@ Datasets used:
 
 Project Demonstration:
 
-![Choosing strokes and character prediction]](https://raw.githubusercontent.com/jiahao25/ETL-Capstone-Project/master/pictures/keyboard1.JPG)
-![Phrase prediction](https://raw.githubusercontent.com/jiahao25/ETL-Capstone-Project/master/pictures/keyboard2.JPG)
+![](https://raw.githubusercontent.com/jiahao25/ETL-Capstone-Project/master/pictures/keyboard1.JPG)
+
+![](https://raw.githubusercontent.com/jiahao25/ETL-Capstone-Project/master/pictures/keyboard2.JPG)
