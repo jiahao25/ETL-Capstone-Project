@@ -1,6 +1,9 @@
 # ETL-Capstone-Project
 Methodology and code on how I extract and transformed data from various sources in capstone project
 
+## Problem statement
+Our client's patients belong to a group of patients suffering from motor neural related diseases, as a result they could not move their limbs and body. They use an eye gazing device and type in the eye gazing device to communicate. The problem is that these patients only know how to converse in Chinese and the eye gazing device do not have the support for that. Our team has to create a software within the eye gazing device that could allow the patients to converse by typing Chinese strokes. The chinese strokes are based on the standards provided by the National Language Committee in China (PDF attached in this repo).
+
 ## Files:
 - Jupyter Notebook files -> Code
 - character_strokes.txt -> Stroke order/count dataset
@@ -8,8 +11,8 @@ Methodology and code on how I extract and transformed data from various sources 
 - onegram.json -> Output file containing single character frequencies and stroke order
 
 ## Datasets used:
-- character_strokes.txt
-- Leiden Weibo corpus: http://lwc.daanvanesch.nl/frequentwords.php
+- character_strokes.txt (It contains the official stroke order/count of recognised Chinese characters)
+- Leiden Weibo corpus: http://lwc.daanvanesch.nl/frequentwords.php (It contains the single character usage and phrase usage information in the Weibo corpus)
 
 ## Project Demonstration:
 
